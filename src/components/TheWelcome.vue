@@ -87,4 +87,5 @@ import SupportIcon from './icons/IconSupport.vue'
     us by
     <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
   </WelcomeItem>
+  <div class="mt-16"> Hellow tailwind</div>
 </template>
